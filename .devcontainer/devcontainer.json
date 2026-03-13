@@ -1,6 +1,6 @@
 {
   "name": "Filestash",
-  "dockerComposeFile": "../docker-compose.yml",
+  "dockerComposeFile": "../docker/docker-compose.yml",
   "service": "app",
   "workspaceFolder": "/workspace"
 }
