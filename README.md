@@ -1,3 +1,7 @@
+*In this fork, .devcontainer/devcontainer.json added, to mount a codespace that can launch the application*
+
+---
+
 ![screenshot](https://raw.githubusercontent.com/mickael-kerjean/filestash_images/master/.assets/photo.jpg)
 
 # What is this?
