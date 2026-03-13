@@ -1,7 +1,6 @@
 {
   "name": "Filestash",
-  "build": {
-    "context": "..",
-    "dockerfile": "../docker/docker-compose.yml"
-  }
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "filestash",
+  "workspaceFolder": "/workspace"
 }
