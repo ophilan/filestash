@@ -3,5 +3,6 @@
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
     "ghcr.io/devcontainers/features/docker-in-docker:2": {}
-  }
+  },
+  "postStartCommand": "docker compose -f docker/docker-compose.yml up -d"
 }
