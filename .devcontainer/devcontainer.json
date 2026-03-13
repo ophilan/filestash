@@ -1,0 +1,7 @@
+{
+  "name": "Filestash",
+  "build": {
+    "context": "..",
+    "dockerfile": "../docker/docker-compose.yml"
+  }
+}
